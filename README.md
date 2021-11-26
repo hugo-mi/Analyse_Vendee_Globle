@@ -1,4 +1,4 @@
-# Analyse_Vend-e_Globle
+# Analyse_Vendee_Globle
 Analyse d'un dataset du Vendée Globle 2020-2021
 
 - Extraction des caractéristiques techniques de chaque voilier (Web Scrapping)
