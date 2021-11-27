@@ -24,8 +24,9 @@ Toutes les données utilisées pour ce projet sont à disposition sur le site of
 
 ## Import des données (Web Scrapping)
 
-`def get_carac_boat(url):
-    
+`def get_carac_boat(url):`
+
+`    
     request = requests.get(url)
     
     # On crée l'objet bs4 
@@ -230,7 +231,7 @@ Toutes les données utilisées pour ce projet sont à disposition sur le site of
 
 **Conversion des coordonnées "Longitude et "Latitude""**
 
-`def conversion_gps(coordonnee):
+`def conversion_gps(coordonnee):`
         
     if isinstance(coordonnee, str):
         coordonnee_ = coordonnee.replace("°", ",").replace(".", ",").replace("'", ",").split(",")
