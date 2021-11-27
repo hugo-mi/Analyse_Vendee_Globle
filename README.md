@@ -24,7 +24,7 @@ Toutes les données utilisées pour ce projet sont à disposition sur le site of
 
 ## Import des données (Web Scrapping)
 
-```def get_carac_boat(url):
+`def get_carac_boat(url):
     
     request = requests.get(url)
     
@@ -181,7 +181,7 @@ Toutes les données utilisées pour ce projet sont à disposition sur le site of
             sub_dic_boats["Surface de voiles au portant"] = soup4[12].text.split(":")[1].strip()
 
 
-    return boats```
+    return boats`
 
 ## Visualisation de l'évolution du rang pendant tout le long de la course pour les skippers
 
