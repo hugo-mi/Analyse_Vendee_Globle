@@ -301,7 +301,7 @@ Toutes les données utilisées pour ce projet sont à disposition sur le site of
 
 ![](https://github.com/hugo-mi/Analyse_Vendee_Globle/blob/main/Images/Summary_RegLin.png)
 
-`### Interprétation des résultats de la regressions
+### Interprétation des résultats de la regressions
 
 ![](https://github.com/hugo-mi/Analyse_Vendee_Globle/blob/main/Images/Reg_Lin_Interpreation1.png)
 
